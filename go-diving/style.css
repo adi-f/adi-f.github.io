@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+label {
+  width: 15em;
+  display: inline-block;
+}
+
+input {
+  margin: 0.3em 0;
+  width: 15em;
+}
+
+td {
+  width: 15em;
+}
+
+th {
+  text-align: left;
+}
+
+table {
+  margin-top: 2em;
+}
